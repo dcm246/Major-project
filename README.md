@@ -2,7 +2,9 @@
 
 ## How to interact with works
 Interaction 1: Click on the small square with the left mouse button, and the small square will cyclically increase and decrease in size
+
 Interaction 2: Click on any color block with the left mouse button, and the color of the entire graphic will change based on the color of the clicked color block
+
 Interaction 3: Right click on the small square with the mouse, then left click in place to drag the small square and move it. During the movement, other small squares passed by the dragged small square will turn the same color Click the left button again anywhere to release the small square and stop dragging.(Tips:It's best to use a mouse, as the touchpad doesn't seem to trigger right-click dragging)
 
 ## Detailed description
