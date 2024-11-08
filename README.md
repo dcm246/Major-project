@@ -15,7 +15,9 @@ The square blocks in the graphic can be dragged and clicked to change the size o
 ### Inspiration
 This is where my ideas come from.
 [click to view](https://lines.chromeexperiments.com/)
+
 ![Picture](Image/01.jpg)
+
 This is where my ideas come from. On this site, if you draw a line, it will match up with scenery that is the same shape. These lessons have taught me to let what the user does affect other things, which gives the art a certain flow. Mondrian's art is known for its strict color balance and geometric grid plan, which show how art should be put together. This natural order is broken by letting blocks be dragged and changing the color of other blocks while they are being pulled. This creates some chaos or uncertainty. In some ways, this process gives artistic works more freedom. But at the same time, the viewer's basic job was just to passively enjoy. I also added interactivity to the work, which let the viewer be a part of the making process and gave the work new life.
 
 ### Technical explanation
